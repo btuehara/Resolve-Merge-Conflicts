@@ -1,3 +1,4 @@
-<<<<<< my-resme
-========
->>>>>> main
+
+# References
+
+* octocat 1 😈
